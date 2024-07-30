@@ -197,34 +197,5 @@ FakesAssemblies/
 # Visual Studio 6 workspace options file
 *.opt
 
-.idea/
-Platform/sln/Legimi/Tools/*
-Platform/src/Mobile/Legimi.Droid.Showcase/Resources/Resource.designer.cs
-Tools
-Builds
-*.realm
-*.realm.lock
-Platform/src/Mobile/Legimi.Mobile.Localization/StringResources.Designer.cs
-Platform/src/Mobile/Legimi.Mobile.Localization/StringResources.de-DE.Designer.cs
-Platform/src/Mobile/Legimi.Mobile.Localization/StringResources.en-GB.Designer.cs
-Platform/src/Mobile/Legimi.Android/Resources/Resource.designer.cs
-Platform/src/Mobile/Legimi.Mobile.Localization/StringResources.resources
-*.apk
-UITestsReports/
-TestResults/
-IntegrationTestResults/
-
 # Mac OS
 .DS_Store
-
-# fastlane specific
-**/fastlane/report.xml
-
-# deliver temporary files
-**/fastlane/Preview.html
-
-# snapshot generated screenshots
-**/fastlane/screenshots
-
-# scan temporary files
-**/fastlane/test_output
